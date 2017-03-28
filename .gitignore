@@ -1,0 +1,2 @@
+$ cat .gitignore
+wp-config.php

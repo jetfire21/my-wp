@@ -1,0 +1,46 @@
+[
+	{
+		"id": "theme_mods_jobify",
+		"type": "setting",
+		"data": {
+			"color-primary": "#1e83f0",
+			"color-accent": "#1e83f0",
+			"color-body": "#647585",
+			"color-link": "#647585",
+			"color-header-background": "#222b38",
+			"color-navigation-text": "#ffffff",
+			"color-cta-text": "#ffffff",
+			"color-cta-background": "#222b38",
+			"color-footer-widgets-title": "#647585",
+			"color-footer-widgets-link": "#647585",
+			"color-footer-widgets-text": "#647585",
+			"color-footer-widgets-background": "#ffffff",
+			"color-copyright-link": "#647585",
+			"color-copyright-text": "#647585",
+			"color-copyright-background": "#ffffff",
+			"header_textcolor": "ffffff"
+		}
+	},
+	{
+		"id": "theme_mods_jobify-child",
+		"type": "setting",
+		"data": {
+			"color-primary": "#1e83f0",
+			"color-accent": "#1e83f0",
+			"color-body": "#647585",
+			"color-link": "#647585",
+			"color-header-background": "#222b38",
+			"color-navigation-text": "#ffffff",
+			"color-cta-text": "#ffffff",
+			"color-cta-background": "#222b38",
+			"color-footer-widgets-title": "#647585",
+			"color-footer-widgets-link": "#647585",
+			"color-footer-widgets-text": "#647585",
+			"color-footer-widgets-background": "#ffffff",
+			"color-copyright-link": "#647585",
+			"color-copyright-text": "#647585",
+			"color-copyright-background": "#ffffff",
+			"header_textcolor": "ffffff"
+		}
+	}
+]

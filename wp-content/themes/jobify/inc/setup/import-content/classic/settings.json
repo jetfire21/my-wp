@@ -1,0 +1,18 @@
+[
+	{
+		"id": "theme_mods_jobify",
+		"type": "setting",
+		"data": {
+			"job-display-sidebar": "side",
+			"color-link": "#6d6d6d"
+		}
+	},
+	{
+		"id": "theme_mods_jobify-child",
+		"type": "setting",
+		"data": {
+			"job-display-sidebar": "side",
+			"color-link": "#6d6d6d"
+		}
+	}
+]
