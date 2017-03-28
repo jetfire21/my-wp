@@ -419,6 +419,7 @@ add_filter( 'widget_tag_cloud_args', 'twentysixteen_widget_tag_cloud_args' );
  * The bp_is_active( 'groups' ) check is recommended, to prevent problems 
  * during upgrade or when the Groups component is disabled
  */
+if( function_exists('bp_is_active')):
 if ( bp_is_active( 'groups' ) ) :
   
 class Group_Extension_Example_2 extends BP_Group_Extension {
@@ -511,6 +512,7 @@ class Group_Extension_Example_2 extends BP_Group_Extension {
 }
 bp_register_group_extension( 'Group_Extension_Example_2' );
  
+endif;
 endif;
 
 /* *********** Group Extension API ************ */
